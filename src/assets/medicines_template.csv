@@ -1,0 +1,2 @@
+name,category,brand,batch_number,expiry_date,cost_price,selling_price,quantity,reorder_level
+DesParacetamol 500mg,Tablets,PharmaCo,P500-2024,2025-12-31,1000,1400,200,10
